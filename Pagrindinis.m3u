@@ -1,0 +1,192 @@
+﻿#EXTM3U
+
+
+##Pagrindiniai:
+#EXTINF:0 tvg-id="TV1" tvg-name="Tv1", TV1
+udp://@233.136.41.42:1234
+#EXTINF:0 tvg-id="LNK" tvg-name="Lnk", LNK
+udp://@233.136.41.13:1234
+#EXTINF:0 tvg-id="TV3" tvg-name="Tv3", TV3
+udp://@239.255.12.13:1234
+#EXTINF:0 tvg-id="TV6" tvg-name="Tv6", TV6
+udp://@239.255.12.16:1234
+#EXTINF:0 tvg-id="BTV" tvg-name="Btv", BTV
+udp://@233.136.41.20:1234
+#EXTINF:0 tvg-id="LRT TELEVIZIJA" tvg-name="Lrt Televizija", LRT TELEVIZIJA
+udp://@239.255.12.6:1234
+## senas: udp://@233.136.41.158:1234
+#EXTINF:0 tvg-id="LRT KULTŪRA" tvg-name="Lrt KultŪra", LRT KULTŪRA
+udp://@225.2.226.67:1234
+## senas: udp://@233.136.41.31:1234
+#EXTINF:0 tvg-id="TV8" tvg-name="Tv8", TV8
+udp://@233.136.41.116:1234 
+#EXTINF:0 tvg-id="Lietuvos ryto TV" tvg-name="Lietuvos Ryto Tv", Lietuvos ryto televizija
+udp://@239.255.12.8:1234
+## senas: udp://@233.136.41.15:1234
+#EXTINF:0 tvg-id="INFO TV" tvg-name="Info Tv", INFO TV
+udp://@233.136.41.17:1234
+
+##Sportas:
+#EXTINF:0 tvg-id="Viasat Sport Baltic" tvg-name="Viasat Sport Baltic", Viasat Sport Baltic
+udp://@233.136.41.36:1234
+#EXTINF:-1,Sport 1 HD
+udp://@233.136.41.163:1234
+#EXTINF:0 tvg-id="Viasat Sport HD" tvg-name="Viasat Sport Hd", Viasat Sport HD
+udp://@225.2.225.34:1234
+#EXTINF:0 tvg-id="Eurosport HD" tvg-name="Eurosport Hd", Eurosport HD
+udp://@233.136.41.104:1234
+#EXTINF:-1,Eurosport 2 HD
+udp://@233.136.41.143:1234
+#EXTINF:0 tvg-id="Viasat Golf" tvg-name="Viasat Golf", Viasat Golf
+udp://@233.136.41.85:1234
+#EXTINF:0 tvg-id="Viasat Motor HD" tvg-name="Viasat Motor Hd", Viasat Motor HD
+udp://@233.136.41.126:1234
+#EXTINF:0 tvg-id="Setanta Sports" tvg-name="Setanta Sports", Setanta Sports
+udp://@233.136.41.162:1234
+#EXTINF:0 tvg-id="Extreme Sports" tvg-name="Extreme Sports", Extreme Sports
+udp://@233.136.41.18:1234
+#EXTINF:0, МАТЧ! HD
+udp://@225.2.225.39:1234
+#EXTINF:-1,МАТЧ! ИГРА HD
+udp://@225.2.225.2:1234
+#EXTINF:-1,МАТЧ! АРЕНА HD
+udp://@225.2.225.4:1234
+#EXTINF:-1,МАТЧ! ПЛАНЕТА
+udp://@225.2.225.150:1234
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+udp://@225.2.225.46:1234
+#EXTINF:-1,Viasat Sport Baltic HD
+udp://@239.255.12.10:1234
+
+##EXTINF:-1,Eurosport News
+##udp://@233.136.41.205:1234 
+##EXTINF:0 tvg-id="EUROSPORT" tvg-name="Eurosport", EUROSPORT
+##udp://@233.136.41.11:1234
+##EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2", Eurosport 2
+##udp://@233.136.41.19:1234
+##EXTINF:0 tvg-id="Sport1" tvg-name="Sport1", Sport1
+##udp://@233.136.41.45:1234
+##EXTINF:0 tvg-id="Viasat Motor" tvg-name="Viasat Motor", Viasat Motor
+##udp://@233.136.41.125:1234
+
+
+
+
+##Filmai:
+#EXTINF:0 tvg-id="TV1000 East" tvg-name="Tv1000 East", TV1000 East
+udp://@233.136.41.41:1234
+#EXTINF:0 tvg-id="TV1000 Premium" tvg-name="Tv1000 Premium", TV1000 Premium
+udp://@233.136.41.119:1234
+#EXTINF:0 tvg-id="TV1000 Action" tvg-name="Tv1000 Action", TV1000 Action
+udp://@233.136.41.120:1234
+#EXTINF:0 tvg-id="FilmZone" tvg-name="Filmzone", FilmZone
+udp://@239.255.12.2:1234  
+#EXTINF:0 tvg-id="FilmZone+" tvg-name="Filmzone+", FilmZone+
+udp://@233.136.41.161:1234
+#EXTINF:0 tvg-id="FOX" tvg-name="Fox", FOX
+udp://@233.136.41.111:1234
+#EXTINF:0 tvg-id="FOX Life" tvg-name="Fox Life", FOX Life
+udp://@233.136.41.110:1234
+#EXTINF:0 tvg-id="Balticum" tvg-name="Balticum", Balticum
+udp://@233.136.41.21:1234
+#EXTINF:0 tvg-id="Balticum auksinis" tvg-name="Balticum Auksinis", Balticum Auksinis
+udp://@233.136.41.105:1234
+#EXTINF:0 tvg-id="Balticum Platinum" tvg-name="Balticum Platinum", Balticum Platinum
+udp://@239.255.12.4:1234 
+#EXTINF:0 tvg-id="SONY Entertainment" tvg-name="Sony Entertainment", Sony Channel
+udp://@239.255.12.9:1234
+## senas: udp://@233.136.41.75:1234
+#EXTINF:0 tvg-id="Sony Turbo" tvg-name="Sony Turbo", Sony Turbo
+udp://@239.255.12.5:1234
+
+##Kiti:
+#EXTINF:0 tvg-id="Animal planet HD" tvg-name="Animal Planet Hd", Animal Planet HD
+udp://@233.136.41.156:1234
+#EXTINF:-1,Viasat Explore HD
+udp://@233.136.41.141:1234
+#EXTINF:-1,Viasat History HD
+udp://@233.136.41.140:1234
+#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel", History Channel
+udp://@233.136.41.109:1234
+#EXTINF:0 tvg-id="National Geographic Channel Russia" tvg-name="National Geographic Channel Russia", National Geographic HD
+udp://@233.136.41.29:1234
+#EXTINF:0 tvg-id="Nat Geo Wild Europe" tvg-name="Nat Geo Wild Europe", National Geographic Wild
+udp://@233.136.41.101:1234
+#EXTINF:0 tvg-id="Viasat Nature" tvg-name="Viasat Nature", Viasat Nature
+udp://@233.136.41.133:1234
+#EXTINF:-1,Travel Channel HD
+udp://@233.136.41.124:1234
+#EXTINF:0 tvg-id="Discovery" tvg-name="Discovery", Discovery
+udp://@233.136.41.4:1234
+#EXTINF:-1,Discovery Science HD
+udp://@233.136.41.157:1234
+#EXTINF:-1,Discovery ID XTRA HD
+udp://@233.136.41.155:1234
+#EXTINF:0 tvg-id="Discovery DTX" tvg-name="Discovery DTX", Discovery DTX
+udp://@233.136.41.184:1234 
+#EXTINF:0 tvg-id="CBS Reality" tvg-name="CBS Reality", CBS Reality
+udp://@225.2.225.115:1234 
+
+
+##EXTINF:0 tvg-id="Viasat Explorer" tvg-name="Viasat Explorer", Viasat Explorer
+##udp://@233.136.41.37:1234 
+##EXTINF:0 tvg-id="Viasat History" tvg-name="Viasat History", Viasat History
+##udp://@233.136.41.34:1234
+##EXTINF:0 tvg-id="Travel channel" tvg-name="Travel Channel", Travel channel
+##udp://@233.136.41.44:1234
+##EXTINF:0 tvg-id="TLC" tvg-name="Tlc", TLC
+##udp://@233.136.41.2:1234
+##EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science", Discovery Science
+##udp://@233.136.41.3:1234
+##EXTINF:0 tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase", Discovery HD Showcase
+##udp://@233.136.41.54:1234
+##EXTINF:0 tvg-id="Discovery ID XTRA" tvg-name="Discovery ID XTRA", Discovery ID XTRA
+##udp://@233.136.41.185:1234
+##EXTINF:0 tvg-id="Animal planet" tvg-name="Animal Planet", Animal planet
+##udp://@233.136.41.8:1234
+
+
+
+
+##Muzika:
+#EXTINF:0 tvg-id="VH1 Europe" tvg-name="Vh1 Europe", VH1 Europe
+udp://@233.136.41.32:1234
+#EXTINF:0 tvg-id="MTV" tvg-name="Mtv", MTV
+udp://@233.136.41.30:1234
+#EXTINF:0 tvg-id="MTV Music" tvg-name="Mtv Music", MTV Music
+udp://@233.136.41.114:1234
+#EXTINF:0 tvg-id="MTV Hits" tvg-name="Mtv Hits", MTV Hits
+udp://@233.136.41.142:1234
+#EXTINF:0 tvg-id="MTV Rocks" tvg-name="Mtv Rocks", MTV Rocks
+udp://@225.2.225.183:1234
+#EXTINF:0 tvg-id="MTV Dance" tvg-name="Mtv Dance", MTV Dance
+udp://@225.2.225.181:1234
+#EXTINF:0 tvg-id="MTV Live HD" tvg-name="Mtv Live Hd", MTV Live HD
+udp://@225.2.225.25:1234 
+#EXTINF:0 tvg-id="MCM TOP" tvg-name="Mcm Top", MCM TOP
+udp://@233.136.41.63:1234
+#EXTINF:0 tvg-id="iConcerts" tvg-name="Iconcerts", iConcerts
+udp://@233.136.41.59:1234
+#EXTINF:0 tvg-id="Deluxe music" tvg-name="Deluxe Music", Deluxe music
+udp://@233.136.41.96:1234
+
+##Žinios:
+#EXTINF:0 tvg-id="BBC World" tvg-name="BBC World", BBC World
+udp://@225.2.225.21:1234
+#EXTINF:0 tvg-id="CNN International" tvg-name="Cnn International", CNN International
+udp://@233.136.41.52:1234
+#EXTINF:0 tvg-id="SkyNews International" tvg-name="Skynews International", SkyNews International
+udp://@233.136.41.112:1234
+#EXTINF:0 tvg-id="Euronews" tvg-name="Euronews", Euronews
+udp://@233.136.41.56:1234
+#EXTINF:0 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle", Deutsche Welle
+udp://@233.136.41.53:1234
+#EXTINF:0 tvg-id="Bloomberg" tvg-name="Bloomberg", Bloomberg
+udp://@233.136.41.49:1234
+#EXTINF:0 tvg-id="France 24" tvg-name="France 24", France 24
+udp://@239.255.12.63:1234
+#EXTINF:0 tvg-id="Seimas tiesiogiai" tvg-name="Seimas tiesiogiai", Seimas tiesiogiai
+udp://@233.136.41.118:1234
+
+
+
