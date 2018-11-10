@@ -17,3 +17,5 @@ http://46.251.40.201:9981/stream/channelid/2071418321?ticket=a21254e84e14e9d715d
 http://46.251.40.201:9981/stream/channelid/1693317888?ticket=d5ef1072923fa6dc1460d341718c8d408aee59bb&profile=pass
 #EXTINF:-1 tvg-id="adebf4cd0242d6e687a4a5dc4d2bdaca",TV8
 http://46.251.40.201:9981/stream/channelid/1307896749?ticket=c7f369d31ff611cb18b73de99c06be903d870475&profile=pass
+#EXTINF:0,Viasat Sport Baltic
+ace://a520e7957dd080b5d5fe2781294602ac03bbd506
