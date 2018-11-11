@@ -1,26 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="f886157e09373cc90d83f7793e53e725",TV3
-http://46.251.40.201:9981/stream/channelid/2115340024?ticket=cd3a4d9b151d8b03549e689bcf948607153e0323&profile=pass
-#EXTINF:-1 tvg-id="c92e88433885edbab618f86eaad74207",TV6
-http://46.251.40.201:9981/stream/channelid/1132998345?ticket=4352fe5dff521bb5b0402add0a86e7837071d47b&profile=pass
-#EXTINF:-1 tvg-id="39126c22b264e5f1b9e8c691075c2a7a",LNK
-http://46.251.40.201:9981/stream/channelid/577507897?ticket=f843acecbb9713d9121bdb0bb099d966fb0fc6d2&profile=pass
-#EXTINF:-1 tvg-id="1297027f95bcb4440b67758c9d6299b4",BTV
-http://46.251.40.201:9981/stream/channelid/2130876178?ticket=3b7ac16567007f9b6715a200ccc2fd20f3121a21&profile=free
-#EXTINF:-1 tvg-id="5f5fe31938be8ddcfb06701ee9c00924",Info TV
-http://46.251.40.201:9981/stream/channelid/434331487?ticket=7686a3ad006446f4c8cbd64a2f4c439888765093&profile=pass
-#EXTINF:-1 tvg-id="ef3d2d4e60cfe53b49db871c6595fdd1",Lietuvos rytas TV
-http://46.251.40.201:9981/stream/channelid/1311587823?ticket=0d46dadf5eda27c7ba68362e1c291fada621bd09&profile=pass
-#EXTINF:-1 tvg-id="d155777b6e734159522b69a71b8f7f19",LIUKS!
-http://46.251.40.201:9981/stream/channelid/2071418321?ticket=a21254e84e14e9d715d98cab4442004f196f1a6f&profile=pass
-#EXTINF:-1 tvg-id="00fbed64439a18fa8882ebe16e70b695",TV1
-http://46.251.40.201:9981/stream/channelid/1693317888?ticket=d5ef1072923fa6dc1460d341718c8d408aee59bb&profile=pass
-#EXTINF:-1 tvg-id="adebf4cd0242d6e687a4a5dc4d2bdaca",TV8
-http://46.251.40.201:9981/stream/channelid/1307896749?ticket=c7f369d31ff611cb18b73de99c06be903d870475&profile=pass
-#EXTINF:-1,Viasat Sport Baltic
-acestream://a520e7957dd080b5d5fe2781294602ac03bbd506
-#EXTINF:0,Channel
-http://127.0.0.1:6878/content/57ed70c702943f325eae1e198a03dcf858916afc/0.329967677117
 
-#EXTINF:-1, Motors TV
-plugin://plugin.video.p2p-streams/?url=acestream://a520e7957dd080b5d5fe2781294602ac03bbd506
+#EXTINF:-1 tvg-id="8a2fb374ffb3d4e85e5105d9483881fc" tvg-name="Tv1",TV1
+http://46.251.40.201:9981/stream/channelid/1957900170?ticket=32C286991646E723C60D66B22F5750777942805C&profile=pass
+
+#EXTINF:-1 tvg-id="be57fe1ff4064b1b1cd3e285c2e6bade" tvg-name="Lnk",LNK
+http://46.251.40.201:9981/stream/channelid/536762302?ticket=7CC2E9326F00D20905EDEA1DC452E8BB1F44A7F4&profile=pass
+
+#EXTINF:-1 tvg-id="01bdfe334e17b3ddb5991ef6ec882426" tvg-name="Tv3",TV3
+http://46.251.40.201:9981/stream/channelid/872332545?ticket=9C8BE65475E5F1FE550D92B82A30B7326873D9DE&profile=pass
+
+#EXTINF:-1 tvg-id="fa693d500796ad03c3af97c91f900ed8" tvg-name="Tv6",TV6
+http://46.251.40.201:9981/stream/channelid/1346202106?ticket=90A5B4AC19A4B06B32F277C9541DEFFDBD55B2B0&profile=pass
+
+#EXTINF:-1 tvg-id="998f17ab41e2017832982d6a6f57ed68" tvg-name="Btv",BTV
+http://46.251.40.201:9981/stream/channelid/722964377?ticket=D0F394EE85FD3139FD015018451CE88272A463A5&profile=pass
+
+#EXTINF:-1 tvg-id="9fd4be91cdf51bf42df3ad8a2c51b242" tvg-name="Tv8",TV8
+http://46.251.40.201:9981/stream/channelid/297718943?ticket=3D9E2F70216F250D47FF533927E8E4AA222BC493&profile=pass
+
+#EXTINF:-1 tvg-id="efeafd893d5e7533be91764cdc5d92b3" tvg-name="Lietuvos Ryto Tv",Lietuvos ryto televizija
+http://46.251.40.201:9981/stream/channelid/167635695?ticket=E97A405C265391B4A3123D8A846E712442763EF2&profile=pass
+
+#EXTINF:-1 tvg-id="7e059e1750b152070fca4f55577c9a2f" tvg-name="Info Tv",Info TV
+http://46.251.40.201:9981/stream/channelid/396232062?ticket=0E0FE6B4BF050489AD6B0F99D35F00D8854E9BE0&profile=pass
