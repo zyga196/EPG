@@ -23,3 +23,6 @@ http://46.251.40.201:9981/stream/channelid/167635695?ticket=E97A405C265391B4A312
 
 #EXTINF:-1 tvg-id="7e059e1750b152070fca4f55577c9a2f" tvg-name="Info Tv",Info TV
 http://46.251.40.201:9981/stream/channelid/396232062?ticket=0E0FE6B4BF050489AD6B0F99D35F00D8854E9BE0&profile=pass
+
+#EXTINF:0,Channel
+ace://a520e7957dd080b5d5fe2781294602ac03bbd506
