@@ -30,7 +30,11 @@ http://88.216.48.14:80/infotv/live.m3u8
 #EXTINF:-1 group-title="Lietuviški" tvg-name="Seimas tiesiogiai" ttv-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-seimas-tiesiogiai.png",Seimas tiesiogiai
 http://88.216.48.14:80/seimas/live.m3u8
 
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV1000 Premium" ttv-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-premium-1.png",TV1000 Premium
+http://88.216.48.14:80/tv1000prem/live.m3u8
 
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Init" ttv-logo="http://init.lt/wp-content/uploads/2017/10/Informacija-klientams.jpg",Init
+http://88.216.48.14:80/tv7/live.m3u8
 
 
 
