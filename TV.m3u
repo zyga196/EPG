@@ -1036,6 +1036,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
 #EXTINF:0,group-title="Sportas" tvg-name="tvplay-sports" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tvplay-sports.png",TVPlay Sports
 http://127.0.0.1:6878/ace/getstream?id=a30c046ed74d78f2096990564d44a926d9eeb791
 
+#EXTINF:0,group-title="Sportas" tvg-name="tvplay-sports" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tvplay-sports.png",TVPlay Sports1
+http://127.0.0.1:6878/ace/getstream?id=615c2cd199eb6c8850ec135375d26ca6e1e8d62f
+
+#EXTINF:0,group-title="Sportas" tvg-name="tvplay-sports" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tvplay-sports.png",TVPlay Sports2
+http://127.0.0.1:6878/ace/getstream?id=d46fcab136c401132fe41f2c100002283d537406
 
 
 #EXTINF:-1 group-title="Sportas" tvg-name="Eurosport_1" ttv-logo="Eurosport 1.png",Eurosport 1
