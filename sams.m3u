@@ -13,24 +13,36 @@ udp://@239.255.12.209:1234
 udp://@233.136.41.158:1234
 #EXTINF:-1,LRT KULTŪRA
 udp://@233.136.41.171:1234
+#EXTINF:-1 tvg-id="tv8-lt",TV8 
+udp://@239.255.13.15:1234
 #EXTINF:-1,Lietuvos ryto TV
 udp://@239.255.12.8:1234
-#EXTINF:-1,TV1000 Premium
+#EXTINF:-1 tvg-id="info-tv", Info TV
+udp://@233.136.41.17:1234  
+#EXTINF:-1 tvg-id="tv1000-premium-lt",TV1000 Premium 
 udp://@233.136.41.119:1234
+#EXTINF:-1 tvg-id="balt-tv", Balticum TV
+udp://@239.255.13.17:1234
+#EXTINF:-1 tvg-id="balt-plat-lt", Balticum Platinum
+udp://@239.255.12.4:1234
+#EXTINF:-1 tvg-id="balt-auks", Balticum Auksinis
+udp://@233.136.41.105:1234
+
 #EXTINF:-1,Filmzone+
 udp://@233.136.41.161:1234
 #EXTINF:-1,Discovery HD Showcase
 udp://@233.136.41.54:1234
-#EXTINF:-1,Discovery Science HD
+#EXTINF:-1,Discovery Science
 udp://@233.136.41.157:1234
 #EXTINF:-1,DTX HD
 udp://@233.136.41.184:1234
 #EXTINF:-1,IDXtra HD
 udp://@233.136.41.155:1234
-#EXTINF:-1,Viasat History HD
+#EXTINF:-1,Viasat History LT
 udp://@233.136.41.140:1234
-#EXTINF:-1,Viasat Explorer HD
+#EXTINF:-1 tvg-id="ViasatExplorer.lt",Viasat Explorer
 udp://@233.136.41.141:1234
+
 #EXTINF:-1,DuckTV HD
 udp://@233.136.41.108:1234
 #EXTINF:-1,iConcerts HD
