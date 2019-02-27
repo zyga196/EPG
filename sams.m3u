@@ -15,10 +15,11 @@ udp://@233.136.41.158:1234
 udp://@233.136.41.171:1234
 #EXTINF:-1,Lietuvos ryto TV
 udp://@239.255.12.8:1234
-
-#EXTINF:-1,Filmzone+ HD
+#EXTINF:-1,TV1000 Premium
+udp://@233.136.41.119:1234
+#EXTINF:-1,Filmzone+
 udp://@233.136.41.161:1234
-#EXTINF:-1,Discovery Showcase HD
+#EXTINF:-1,Discovery HD Showcase
 udp://@233.136.41.54:1234
 #EXTINF:-1,Discovery Science HD
 udp://@233.136.41.157:1234
@@ -110,8 +111,7 @@ udp://@233.136.41.39:1234
 udp://@233.136.41.40:1234
 #EXTINF:-1,TV1000
 udp://@233.136.41.41:1234
-#EXTINF:-1,TV1
-udp://@233.136.41.42:1234
+
 #EXTINF:-1,Travel Channel
 udp://@233.136.41.44:1234
 #EXTINF:-1,SPORT 1 LT
@@ -186,8 +186,7 @@ udp://@233.136.41.115:1234
 udp://@233.136.41.116:1234
 #EXTINF:-1,SeimasTiesiogiai
 udp://@233.136.41.118:1234
-#EXTINF:-1,TV1000 Premium lt.
-udp://@233.136.41.119:1234
+
 #EXTINF:-1,TV1000 Action
 udp://@233.136.41.120:1234
 #EXTINF:-1,СТС
