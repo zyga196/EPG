@@ -27,9 +27,27 @@ udp://@239.255.13.17:1234
 udp://@239.255.12.4:1234
 #EXTINF:-1 tvg-id="balt-auks", Balticum Auksinis
 udp://@233.136.41.105:1234
-
 #EXTINF:-1,Filmzone+
 udp://@233.136.41.161:1234
+#EXTINF:-1 tvg-id="Fox.lt",FOX
+udp://@239.255.12.48:1234
+#EXTINF:-1,Fox Life
+udp://@239.255.12.50:1234
+#EXTINF:-1,Sony Channel
+udp://@233.136.41.75:1234
+
+#EXTINF:-1 tvg-id="sport1-lt",Sport1 HD LT 
+udp://@233.136.41.163:1234
+#EXTINF:-1 tvg-id="TVPlaySports.lt",TVPlay Sports HD   
+udp://@239.255.12.10:1234
+#EXTINF:-1,Eurosport 1
+udp://@233.136.41.104:1234
+#EXTINF:-1,Eurosport 2
+udp://@233.136.41.143:1234
+
+
+#EXTINF:-1,Travel Channel HD
+udp://@233.136.41.124:1234
 #EXTINF:-1,Discovery HD Showcase
 udp://@233.136.41.54:1234
 #EXTINF:-1,Discovery Science
@@ -51,10 +69,7 @@ udp://@233.136.41.59:1234
 udp://@233.136.41.96:1234
 #EXTINF:-1,MCM TOP HD
 udp://@233.136.41.159:1234
-#EXTINF:-1,Sport1 HD LT
-udp://@233.136.41.163:1234
-#EXTINF:-1,TVPlay Sports HD
-udp://@239.255.12.10:1234
+
 #EXTINF:-1,Setanta Sports HD
 udp://@233.136.41.162:1234
 #EXTINF:-1,Discovery Science
@@ -355,12 +370,7 @@ udp://@233.136.41.158:1234
 udp://@233.136.41.160:1234
 #EXTINF:-1,Euronews HD
 udp://@233.136.41.219:1234
-#EXTINF:-1,Eurosport HD
-udp://@233.136.41.104:1234
-#EXTINF:-1,Travel Channel HD
-udp://@233.136.41.124:1234
-#EXTINF:-1,Eurosport2 HD
-udp://@233.136.41.143:1234
+
 #EXTINF:-1,MGM HD
 udp://@239.255.12.12:1234
 #EXTINF:-1,Food Network
