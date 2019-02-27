@@ -21,6 +21,8 @@ udp://@239.255.12.8:1234
 udp://@233.136.41.17:1234  
 #EXTINF:-1 tvg-id="tv1000-premium-lt",TV1000 Premium 
 udp://@233.136.41.119:1234
+#EXTINF:-1 tvg-id="TV1000Action.lt",TV1000 Action
+udp://@233.136.41.120:1234
 #EXTINF:-1 tvg-id="balt-tv", Balticum TV
 udp://@239.255.13.17:1234
 #EXTINF:-1 tvg-id="balt-plat-lt", Balticum Platinum
