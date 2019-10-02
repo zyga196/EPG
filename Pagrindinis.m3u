@@ -1,4 +1,5 @@
 #EXTM3U
+# tag example tvg-name=""
 
 # PAGRINDINIAI ###########################
 
@@ -136,4 +137,137 @@ udp://@233.136.41.162:1234
 
 #EXTINF:-1,Extreme Sports
 udp://@233.136.41.18:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MUSIC ########################################
+
+MUZIKA
+
+#EXTINF:-1,MTV Europe
+udp://@239.255.12.60:1234
+
+#EXTINF:-1,MTV Live HD
+udp://@239.255.12.3:1234
+
+#EXTINF:-1,MTV Dance
+udp://@239.255.12.18:1234
+
+#EXTINF:-1,MTV Rocks
+udp://@239.255.12.19:1234
+
+#EXTINF:-1,MTV Hits
+udp://@233.136.41.142:1234
+
+#EXTINF:-1,VH1
+udp://@239.255.12.55:1234
+
+#EXTINF:-1,MTV Music 24
+udp://@233.136.41.114:1234
+
+#EXTINF:-1,MCM Top
+udp://@239.255.12.59:1234
+
+#EXTINF:-1,Deluxe Music
+udp://@233.136.41.96:1234
+
+
+
+
+
+
+# NEWS ########################################
+
+NAUJIENOS
+
+#EXTINF:-1,Euronews
+udp://@233.136.41.219:1234
+
+#EXTINF:-1,Bloomberg
+udp://@239.255.12.51:1234
+
+#EXTINF:-1,CNN International
+udp://@239.255.12.43:1234
+
+#EXTINF:-1,France 24
+udp://@239.255.12.63:1234
+
+#EXTINF:-1,Sky News
+udp://@233.136.41.112:1234
+
+#EXTINF:-1,Deutsche Welle
+udp://@233.136.41.53:1234
+
+
+
+
+
+
+
+
+
+# DOCUMENTARIES ########################################
+
+DOKUMENTIKA
+
+#EXTINF:-1,Travel Channel HD
+udp://@239.255.15.111:1234
+#udp://@233.136.41.124:1234
+
+#EXTINF:-1,Discovery Channel CE
+udp://@233.136.41.4:1234
+
+#EXTINF:-1,Discovery Science HD
+udp://@233.136.41.157:1234
+
+#EXTINF:-1,Discovery HD Showcase
+udp://@233.136.41.54:1234
+
+#EXTINF:-1,National Geographic
+udp://@239.255.12.56:1234
+
+#EXTINF:-1,National Geographic Wild
+udp://@239.255.12.53:1234
+
+#EXTINF:-1,Animal Planet HD
+udp://@233.136.41.156:1234
+
+#EXTINF:-1,Viasat Nature
+udp://@233.136.41.133:1234
+
+#EXTINF:-1,Viasat History
+udp://@233.136.41.140:1234
+
+#EXTINF:-1,History
+udp://@233.136.41.109:1234
+
+#EXTINF:-1,Viasat Explore
+udp://@233.136.41.141:1234
+
+#EXTINF:-1,ID HD
+udp://@233.136.41.155:1234
+
+# HD
+#EXTINF:-1,DTX
+udp://@233.136.41.184:1234
+
+#EXTINF:-1,CBS Reality
+udp://@233.136.41.88:1234
+
+
+######################################### DOCUMENTARIES
 
