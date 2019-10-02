@@ -1,30 +1,139 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="8a2fb374ffb3d4e85e5105d9483881fc" tvg-name="Tv1",TV1
-http://46.251.40.201:9981/stream/channelid/1957900170?ticket=32C286991646E723C60D66B22F5750777942805C&profile=pass
+# PAGRINDINIAI ###########################
 
-#EXTINF:-1 tvg-id="be57fe1ff4064b1b1cd3e285c2e6bade" tvg-name="Lnk",LNK
-http://46.251.40.201:9981/stream/channelid/536762302?ticket=7CC2E9326F00D20905EDEA1DC452E8BB1F44A7F4&profile=pass
+PAGRINDINIAI
 
-#EXTINF:-1 tvg-id="01bdfe334e17b3ddb5991ef6ec882426" tvg-name="Tv3",TV3
-http://46.251.40.201:9981/stream/channelid/872332545?ticket=9C8BE65475E5F1FE550D92B82A30B7326873D9DE&profile=pass
+#HD
+#EXTINF:-1,TV1
+udp://@239.255.12.210:1234
 
-#EXTINF:-1 tvg-id="fa693d500796ad03c3af97c91f900ed8" tvg-name="Tv6",TV6
-http://46.251.40.201:9981/stream/channelid/1346202106?ticket=90A5B4AC19A4B06B32F277C9541DEFFDBD55B2B0&profile=pass
+#HD
+#EXTINF:-1,LNK
+udp://@239.255.12.206:1234
 
-#EXTINF:-1 tvg-id="998f17ab41e2017832982d6a6f57ed68" tvg-name="Btv",BTV
-http://46.251.40.201:9981/stream/channelid/722964377?ticket=D0F394EE85FD3139FD015018451CE88272A463A5&profile=pass
+# HD
+#EXTINF:-1,TV3
+udp://@239.255.12.13:1234
 
-#EXTINF:-1 tvg-id="9fd4be91cdf51bf42df3ad8a2c51b242" tvg-name="Tv8",TV8
-http://46.251.40.201:9981/stream/channelid/297718943?ticket=3D9E2F70216F250D47FF533927E8E4AA222BC493&profile=pass
+# HD
+#EXTINF:-1,TV6
+udp://@239.255.12.16:1234
 
-#EXTINF:-1 tvg-id="efeafd893d5e7533be91764cdc5d92b3" tvg-name="Lietuvos Ryto Tv",Lietuvos ryto televizija
-http://46.251.40.201:9981/stream/channelid/167635695?ticket=E97A405C265391B4A3123D8A846E712442763EF2&profile=pass
+#HD
+#EXTINF:-1,BTV
+udp://@239.255.12.209:1234
 
-#EXTINF:-1 tvg-id="7e059e1750b152070fca4f55577c9a2f" tvg-name="Info Tv",Info TV
-http://46.251.40.201:9981/stream/channelid/396232062?ticket=0E0FE6B4BF050489AD6B0F99D35F00D8854E9BE0&profile=pass
+# HD
+#EXTINF:-1,LRT Televizija
+udp://@239.255.12.6:1234
 
-#EXTINF:0,LRT HD
-#EXTVLCOPT:deinterlace=-1
-#EXTVLCOPT:deinterlace-mode=bob
-acestream://41cdce68d6103f5764e0ced4fbbcc815186e0d1c/
+# HD
+#EXTINF:-1,LRT Plius
+udp://@239.255.12.208:1234
+
+#EXTINF:-1,TV8
+udp://@239.255.12.213:1234
+
+#HD
+#EXTINF:-1,Lietuvos ryto televizija
+udp://@239.255.12.8:1234
+
+#HD
+#EXTINF:-1,Info TV
+udp://@239.255.15.52:1234
+
+#EXTINF:-1,Siauliu TV
+udp://@233.136.41.95:1234
+
+#EXTINF:-1,Seimo TV
+udp://@233.136.41.118:1234
+
+#EXTINF:-1,GNTV
+udp://@233.136.41.148:1234
+
+
+
+
+
+
+
+# FILMAI #################################
+
+FILMAI
+
+#EXTINF:-1,TV1000 Premium
+udp://@239.255.15.120:1234
+
+#EXTINF:-1,TV1000
+udp://@233.136.41.41:1234
+
+#EXTINF:-1,TV1000 Action
+udp://@233.136.41.120:1234
+
+#EXTINF:-1,Balticum TV
+udp://@233.136.41.21:1234
+
+#EXTINF:-1,Balticum Auksinis
+udp://@233.136.41.105:1234
+
+#EXTINF:-1,Balticum Platinum
+udp://@239.255.15.110:1234
+
+#EXTINF:-1,Sony Channel
+udp://@239.255.15.104:1234
+
+#EXTINF:-1,Sony Channel Turbo
+udp://@239.255.15.105:1234
+
+#EXTINF:-1,Fox
+udp://@239.255.12.48:1234
+
+#EXTINF:-1,Fox Life
+udp://@239.255.12.50:1234
+
+#EXTINF:-1,FilmZone
+udp://@239.255.15.40:1234
+
+#EXTINF:-1,FilmZone+
+udp://@233.136.41.161:1234
+
+#EXTINF:-1,Epic Drama
+udp://@233.136.41.231:1234
+
+#EXTINF:-1,AMC
+udp://@233.136.41.203:1234
+
+
+
+
+
+
+
+
+
+# SPORTAS #################################
+
+SPORTAS
+
+#EXTINF:-1,TVPlay Sports
+udp://@239.255.15.127:1234
+
+#EXTINF:-1,TVPlay Sports +
+udp://@239.255.15.128:1234
+
+#EXTINF:-1,Sport1
+udp://@239.255.15.106:1234
+
+#EXTINF: -1,Eurosport 
+udp://@233.136.41.104:1234
+
+#EXTINF: -1,Eurosport 2
+udp://@233.136.41.143:1234
+
+#EXTINF: -1,Setanta Sports
+udp://@233.136.41.162:1234
+
+#EXTINF:-1,Extreme Sports
+udp://@233.136.41.18:1234
+
