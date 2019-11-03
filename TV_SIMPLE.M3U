@@ -26,6 +26,8 @@ udp://@239.255.15.105:1234
 udp://@239.255.15.110:1234
 #EXTINF:-1 tvg-id="tv1000-premium",TV1000 PREMIUM
 udp://@239.255.15.120:1234
+#EXTINF:-1 tvg-id="travel-channel",Travel Channel
+udp://@239.255.15.111:1234 
 ##EXTINF:-1,TVPLAY SPORT
 ##udp://@239.255.15.126:1234
 #EXTINF:-1 tvg-id="tvplay-sports",TVPLAY SPORT HD
