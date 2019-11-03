@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1,TV1
+#EXTINF:-1 tvg-id="tv1-lt", TV1
 udp://@239.255.15.116:1234
-#EXTINF:-1,LNK
+#EXTINF:-1 tvg-id="lnk", LNK
 udp://@239.255.15.63:1234
-#EXTINF:-1,TV3
+#EXTINF:-1 tvg-id="tv3-lt", TV3
 udp://@239.255.15.122:1234
-#EXTINF:-1,TV6
+#EXTINF:-1 tvg-id="tv6-lt", TV6
 udp://@239.255.15.112:1234
-#EXTINF:-1,BTV
+#EXTINF:-1 tvg-id="btv", BTV
 udp://@239.255.15.11:1234
-#EXTINF:-1,LRT HD
+#EXTINF:-1 tvg-id="lrt-tv", LRT HD
 udp://@239.255.15.64:1234
-#EXTINF:-1,LRT PLUS HD
+#EXTINF:-1 tvg-id="lrt-kultura", LRT PLUS HD
 udp://@239.255.15.65:1234
-#EXTINF:-1,LIETUVOS RYTO TV
+#EXTINF:-1 tvg-id="lietuvos-ryto-televizija", LIETUVOS RYTO TV
 udp://@239.255.15.67:1234
-#EXTINF:-1,INFO TV
+#EXTINF:-1 tvg-id="info-tv",INFO TV
 udp://@239.255.15.52:1234
-#EXTINF:-1,SONY
+#EXTINF:-1 tvg-id="sony-enter",SONY
 udp://@239.255.15.104:1234
-#EXTINF:-1,SONY TURBO
+#EXTINF:-1 tvg-id="sony-turbo-baltic",SONY TURBO
 udp://@239.255.15.105:1234
-#EXTINF:-1,BALTICUM PLATINUM TV
+#EXTINF:-1 tvg-id="balticum-platinum",BALTICUM PLATINUM TV
 udp://@239.255.15.110:1234
-#EXTINF:-1,TV1000 PREMIUM
+#EXTINF:-1 tvg-id="tv1000-premium",TV1000 PREMIUM
 udp://@239.255.15.120:1234
-#EXTINF:-1,TVPLAY SPORT
-udp://@239.255.15.126:1234
-#EXTINF:-1,TVPLAY SPORT HD
+##EXTINF:-1,TVPLAY SPORT
+##udp://@239.255.15.126:1234
+#EXTINF:-1 tvg-id="tvplay-sports",TVPLAY SPORT HD
 udp://@239.255.15.127:1234 
-#EXTINF:-1,TVPLAY SPORT PLUS HD
+#EXTINF:-1 tvg-id="tvplay-sports-plus",TVPLAY SPORT PLUS HD
 udp://@239.255.15.128:1234
-#EXTINF:-1,SPORT1 HD
+#EXTINF:-1 tvg-id="sport1-baltic",SPORT1 HD
 udp://@239.255.15.107:1234
-#EXTINF:-1,EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1",EUROSPORT 1
 udp://@239.255.15.37:1234
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2",EUROSPORT 2
 udp://@239.255.15.36:1234
