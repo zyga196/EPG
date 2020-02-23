@@ -1,14 +1,20 @@
 #EXTM3U
+#EXTINF:-1,TV1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1LTHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,LNK
+http://cdn7.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8
 #EXTINF:-1,TV3 LT HD
 http://cdn7.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
 #EXTINF:-1,TV6 Lietuva
-http://cdn7.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+https://cdn7.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
+##http://cdn7.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,BTV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
 #EXTINF:-1,LRT
 http://cdn7.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8
 #EXTINF:-1,LRT kultūra
 http://cdn7.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/index.m3u8
-#EXTINF:-1,LNK
-http://cdn7.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8
+
 #EXTINF:-1,InfoTV
 http://cdn7.tvplayhome.lt/live/eds/InfoTV/HLS_encr/index.m3u8
 #EXTINF:-1,TV8 Lietuva
